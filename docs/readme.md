@@ -20,7 +20,9 @@ Dec 21, 2018
 #62
 
     AnalogMan said:
-    Could that solution be used if paired with the requirement that the user needs to dump their own sector data from a game card? Like, include everything     up to the game card sectors? It would obviously need to come with a homebrew capable of doing that or does the type of dumping needed require               specialized hardware or tools?
+    Could that solution be used if paired with the requirement that the user needs to dump their own sector data from a game card? 
+    Like, include everything up to the game card sectors? It would obviously need to come with a homebrew capable of doing that or 
+    does the type of dumping needed require specialized hardware or tools?
 
 
 Yes, it's definitely possible. However, dumping the necessary data will require specialized tools that don't exist yet.
