@@ -20,15 +20,18 @@ Dec 21, 2018
 #62
 
     AnalogMan said:
-    Could that solution be used if paired with the requirement that the user needs to dump their own sector data from a game card? 
-    Like, include everything up to the game card sectors? It would obviously need to come with a homebrew capable of doing that or 
-    does the type of dumping needed require specialized hardware or tools?
+    Could that solution be used if paired with the requirement that the user needs to dump their own sector data 
+    from a game card? Like, include everything up to the game card sectors? It would obviously need to come with 
+    a homebrew capable of doing that or does the type of dumping needed require specialized hardware or tools?
 
 
-Yes, it's definitely possible. However, dumping the necessary data will require specialized tools that don't exist yet.
-Essentially, you must forge most of the gamecard controller's authentication process and then request these special sectors from the gamecard. I've documented all that some time ago in the wiki: https://switchbrew.org/wiki/Gamecard_ASIC
+Yes, it's definitely possible. However, dumping the necessary data will require specialized tools that don't 
+exist yet.Essentially, you must forge most of the gamecard controller's authentication process and then request 
+these special sectors from the gamecard. I've documented all that some time ago in the wiki: 
+https://switchbrew.org/wiki/Gamecard_ASIC
 
-However, this is detectable if you go online by accident, for example. If you bought a game and used the card's authentication sectors for something like this, you could be tracked down fairly accurately.
+However, this is detectable if you go online by accident, for example. If you bought a game and used the card's 
+authentication sectors for something like this, you could be tracked down fairly accurately.
 ```
 
 
