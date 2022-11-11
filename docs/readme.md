@@ -4,6 +4,7 @@ https://gbatemp.net/threads/whats-the-challenge-with-the-xci-loader.520247/page-
 _hexkyz_
 Oct 8, 2018
 #43
+
 Moral standpoints aside, no one will be able to replicate SX's XCI loading and distribute it as free open source 
 software. Not because of any technical hurdles or anything, but because it's flat out illegal.
 
