@@ -13,3 +13,9 @@ After the authentication process has been forged, the VM is free to read data fr
 
 There are a few more details which I'm saving up for the writeup (SOON™), but that's the gist of it. A free solution will never be able to take this path for obvious reasons (instant takedown and lawsuits galore!), so a more complex approach will be necessary.
 ```
+
+https://switchbrew.org/wiki/Lotus3
+
+https://gbatemp.net/threads/hack-sxos.582831/page-49
+
+https://github.com/chronoss09/Licence-SXOS-GRATUITE
