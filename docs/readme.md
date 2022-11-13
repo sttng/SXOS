@@ -53,3 +53,5 @@ https://switchbrew.org/wiki/Lotus3
 https://gbatemp.net/threads/hack-sxos.582831/page-49
 
 https://github.com/chronoss09/Licence-SXOS-GRATUITE
+
+https://mobile.twitter.com/hexkyz/status/1012362983572492291
