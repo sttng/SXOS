@@ -59,3 +59,7 @@ https://mobile.twitter.com/hexkyz/status/1012362983572492291
 https://mobile.twitter.com/hexkyz/status/1012362983572492291
 
 https://gist.github.com/ndeadly/a4b8c01bb453028cd0008f282098f696
+
+https://github.com/p-sam/switch-sys-tweak
+
+https://github.com/DarkMatterCore/nxdumptool
