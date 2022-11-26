@@ -1,1 +1,3 @@
-SXOS_beta_v3.1.0.zip
+## SXLoader
+
+SX Loader is the payload to boot SXOS.
